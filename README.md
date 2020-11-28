@@ -6,24 +6,24 @@ Email: gabrielwmargolis@gmail.com and Phone: 240-731-7788
 ### List of Projects on GitHub
 My personal favorite projects are italicized.
 
-**Object Orientated Design II (CMSC132)**
-Blackjack -> Java
-ClearCellGame -> Java
-WebPageGen -> Java
-*LinkedLists -> Java*
-OnlineTest -> Java
-*PolymorphicBST -> Java*
-OrdersProcessor -> Java
-Graphs -> Java
+**Object Orientated Design II (CMSC132)**  
+Blackjack -> Java  
+ClearCellGame -> Java  
+WebPageGen -> Java  
+*LinkedLists -> Java*  
+OnlineTest -> Java  
+*PolymorphicBST -> Java*  
+OrdersProcessor -> Java  
+Graphs -> Java  
 
-**Introduction to Computer Systems (CMSC216)**
-GradesCalculator -> C
-UserInterfaceDocumentManager -> C
-Calendar -> C
-*BasicAssembly -> MIPS Assembly*
-*SimpleShell -> C*
+**Introduction to Computer Systems (CMSC216)**  
+GradesCalculator -> C  
+UserInterfaceDocumentManager -> C  
+Calendar -> C  
+*BasicAssembly -> MIPS Assembly*  
+*SimpleShell -> C*  
 
-**Organization of Programming Languages (CMSC330)**
-Wordnet -> Ruby
-RegularExpressionEngine -> OCaml
-*SmallC-ParserAndInterpreter -> OCaml*
+**Organization of Programming Languages (CMSC330)**  
+Wordnet -> Ruby  
+RegularExpressionEngine -> OCaml  
+*SmallC-ParserAndInterpreter -> OCaml*  
